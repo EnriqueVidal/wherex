@@ -19,3 +19,6 @@ Gemfile.lock
 
 # textmate temp files
 ._*
+
+# Don't keep sqlite files
+test/db/*.sqlite3
